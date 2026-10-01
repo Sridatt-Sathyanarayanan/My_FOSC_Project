@@ -12,3 +12,10 @@ graph TD
     D --> E[Visualizing and Innovating - Tasks 2 and 8]
     E --> F[Implementation check of overall code, reports and video - Task 9]
 ```
+## Details of Members:
+- Sridatt Sathyanarayanan - MS26BTECH11035
+- Sreeshanth Reddy Tipeereddy - MS26BTECH11037
+- Saswat - MS26BTECH11033
+- Niranjan S M - MS26BTECH11025
+- Ayaan - MS26BTECH11010
+- Adhwin - MS26BTECH11001
