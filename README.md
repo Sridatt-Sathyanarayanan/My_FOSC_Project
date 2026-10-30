@@ -19,3 +19,11 @@ graph TD
 - Niranjan S M - MS26BTECH11025
 - Ayaan - MS26BTECH11010
 - Adhwin - MS26BTECH11001
+## Sequence of Videos:
+1. Video-1: Sridatt Sathyanarayanan
+2. Video-2: Sreeshanth Reddy Tipeereddy, Ayaan
+3. Video-3: Adhwin
+4. Video-4: Niranjan
+5. Video-5: Saswat
+6. Video-6: Sreeshanth, Ayaan, Adhwin
+## Roles and Responsibilities:
