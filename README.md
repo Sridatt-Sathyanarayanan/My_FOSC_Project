@@ -27,13 +27,13 @@ graph TD
 5. Video-5: Saswat
 6. Video-6: Sreeshanth, Ayaan, Adhwin
 ## Roles and Responsibilities:
--Sridatt Sathyanarayanan-
-     -Project lead
-     -Developed the Baseline Simulator, checked its implementation and handled verification of the same
-     -Contributed in providing the idea for the innovation and how to implement the same over the Baseline simulator, compiled the reports provided by the        team members.
--Sreeshanth Reddy Tipeereddy-
-     -Drafted the animation of the toy model simulator
-     -Handled the innovation and provided the report on innovation
+- Sridatt Sathyanarayanan-
+     - Project lead
+     - Developed the Baseline Simulator, checked its implementation and handled verification of the same
+     - Contributed in providing the idea for the innovation and how to implement the same over the Baseline simulator, compiled the reports provided by the        team members.
+- Sreeshanth Reddy Tipeereddy-
+     - Drafted the animation of the toy model simulator
+     - Handled the innovation and provided the report on innovation
 3.Adhwin-
      -Handled tasks 3 and 4, that is, energy conservation, timestep and dissipation.
      -Contributed to the innovation code.
