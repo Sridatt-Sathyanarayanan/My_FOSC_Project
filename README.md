@@ -13,12 +13,12 @@ graph TD
     E --> F[Implementation check of overall code, reports and video - Task 9]
 ```
 ## Details of Members:
-- Sridatt Sathyanarayanan - MS26BTECH11035
-- Sreeshanth Reddy Tipeereddy - MS26BTECH11037
-- Saswat - MS26BTECH11033
-- Niranjan S M - MS26BTECH11025
-- Ayaan - MS26BTECH11010
-- Adhwin - MS26BTECH11001
+- Sridatt Sathyanarayanan       - MS26BTECH11035
+- Sreeshanth Reddy Tipeereddy   - MS26BTECH11037
+- Saswat                        - MS26BTECH11033
+- Niranjan S M                  - MS26BTECH11025
+- Ayaan                         - MS26BTECH11010
+- Adhwin                        - MS26BTECH11001
 ## Sequence of Videos:
 1. Video-1: Sridatt Sathyanarayanan
 2. Video-2: Sreeshanth Reddy Tipeereddy, Ayaan
@@ -55,6 +55,6 @@ The following AI tools were used by the members as a means to aid in the code de
 1. README
 2. Video files
 3. Source Codes, Testing Codes, Visualization codes
-4. Word document and the PDF file containing results - time snapshots, relevant plots ( also contains algorithms, implementation details and results)
-5. Prompts and recorded sessions with AI
+4. The PDF file(Report file) containing results - time snapshots, relevant plots ( also contains algorithms, implementation details and results)
+5. Prompts and recorded sessions with AI as a PDF file
 
