@@ -3,14 +3,14 @@
 The project aims to develop a basic model of motion of particles in 2D container of fixed dimensions. It doesn't take into account full-scale Molecular
 Dynamics but provides a simplistic idea of how modelling particles works.
 ## Project_Flowchart:
-The project has been split into the following steps with each part allocated to a member of the team.
+The project has been split into the following steps with each part allocated to various members of the team.
 ```mermaid
 graph TD
     A[Baseline simulator development - Task1] --> B[Thermodynamics, integration and dissipation- Tasks 3 and 4]
     B --> C[Understanding computational efficiency - Task 6]
     C --> D[Grasping Memory, precision and scaling limits - Tasks 5 and 7]
     D --> E[Visualizing and Innovating - Tasks 2 and 8]
-    E --> F[Implementation check of overall code, reports and video - Task 9]
+    E --> F[Implementation check of overall code, reports and video, final computational engineering recommendation - Task 9]
 ```
 ## Details of Members:
 - Sridatt Sathyanarayanan       - MS26BTECH11035
