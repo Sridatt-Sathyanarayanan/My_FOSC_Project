@@ -33,7 +33,7 @@ graph TD
      - Contributed in providing the idea for the innovation and how to implement the same over the Baseline simulator, compiled the reports provided by the        team members.
 - Sreeshanth Reddy Tipeereddy-
      - Drafted the animation of the toy model simulator
-     - Handled the innovation and provided the report on innovation
+     - Handled the innovation code and provided the report on innovation
 - Adhwin-
      - Handled tasks 3 and 4, that is, energy conservation, timestep and dissipation.
      - Contributed to the innovation code.
@@ -42,7 +42,7 @@ graph TD
      - Timed them at N = 50 to 1000 and found C fastest and Numpy about 3.4 to 4.2x faster than python .
 - Ayaan-
      - Worked on the animation part of the project
-     - Thought and implementation of innovation in the project
+     - Implementation of innovation code in the project
 - Niranjan-
      - Worked on the code and implementation of tasks 5 and 7, that is numerical precision and memory cum scalability.
      - Analysed the difference in usage of float32 and float64 for the simulator.
