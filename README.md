@@ -42,7 +42,7 @@ graph TD
      - Timed them at N = 50 to 1000 and found C fastest and Numpy about 3.4 to 4.2x faster than python .
 - Ayaan-
      - Worked on the animation part of the project
-     - Implementation of innovation code in the project
+     - Thought and implemented innovation code in the project
 - Niranjan-
      - Worked on the code and implementation of tasks 5 and 7, that is numerical precision and memory cum scalability.
      - Analysed the difference in usage of float32 and float64 for the simulator.
